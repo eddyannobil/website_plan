@@ -12,3 +12,5 @@ Answer: An egg.
 
 5. Riddle: I’m tall when I’m young, and I’m short when I’m old. What am I?
 Answer: A candle.
+
+6. A Doctor and a bus driver are both in love with the same woman, an attractive girl named Sarah. The bus driver had to go on a long bus trip that would last a week. Before he left, he gave Sarah seven apples. Why?
