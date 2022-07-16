@@ -14,3 +14,6 @@ Answer: An egg.
 Answer: A candle.
 
 6. A Doctor and a bus driver are both in love with the same woman, an attractive girl named Sarah. The bus driver had to go on a long bus trip that would last a week. Before he left, he gave Sarah seven apples. Why?
+
+7. What comes once in a minute, twice in a moment, but never in a thousand years?
+M
